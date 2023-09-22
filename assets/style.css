@@ -1,0 +1,68 @@
+.bg-blue {
+    background-color: #01023B;
+    opacity: 80%;
+}
+
+#banner-home {
+    background-image: url(/assets/images/banner-home.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+#banner-page {
+    background-image: url(/assets/images/banner.png);
+    background-size: auto;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+#hero {
+    padding: 150px 0;
+}
+#breadcrumb {
+    padding: 80px 0;
+    z-index: 999;
+}
+
+a{
+    text-decoration: none;
+}
+h1{
+    font-family: Helvetica;
+}
+h2,h3{
+    font-family: sans-serif;
+}
+
+body{
+    font-family: Helvetica;
+    background-color: #f0f0f0;
+}
+
+.breadcrumb-item::before {
+        color: #f0f0f0 !important;
+    
+}
+#header-top,#navbar{
+    z-index: 999;
+}
+.banner{
+    margin-top: -125px;
+    padding-top: 125px;
+    
+}
+
+#abt-cta{
+    height: 350px;
+    background-image: url(/assets/images/abt-cta.png);
+    background-size: auto;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
