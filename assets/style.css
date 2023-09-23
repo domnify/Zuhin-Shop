@@ -8,7 +8,7 @@
 }
 
 #banner-home {
-    background-image: url(/assets/images/banner-home.png);
+    background-image: url(https://ivault.tech/assets/images/banner-home.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@
 }
 
 #banner-page {
-    background-image: url(/assets/images/banner.png);
+    background-image: url(https://ivault.tech/assets/images/banner.png);
     background-size: auto;
     background-position: top;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@ body{
 
 #abt-cta{
     height: 400px;
-    background-image: url(/assets/images/abt-cta.png);
+    background-image: url(https://ivault.tech/assets/images/abt-cta.png);
     background-size: cover;
     background-position: center;
    
@@ -78,7 +78,7 @@ body{
 }
 #cta{
     height: 600px;
-    background-image: url(/assets/images/cta-bg.png);
+    background-image: url(https://ivault.tech/assets/images/cta-bg.png);
     background-size: cover;
     background-position: center;
    
