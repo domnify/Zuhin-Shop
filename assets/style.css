@@ -2,6 +2,7 @@
     background-color: #01023B;
     opacity: 95%;
 }
+
 .bg-blue-80 {
     background-color: #01023B;
     opacity: 80%;
@@ -29,41 +30,48 @@
 #hero {
     padding: 150px 0;
 }
+
 #breadcrumb {
     padding: 80px 0;
     z-index: 999;
 }
 
-a{
+a {
     text-decoration: none;
 }
-h1{
+
+h1 {
     font-family: Helvetica;
 }
-h2,h3{
+
+h2,
+h3 {
     font-family: sans-serif;
 }
 
-body{
+body {
     font-family: Helvetica;
     background-color: #f0f0f0;
     font-size: 18px;
 }
 
 .breadcrumb-item::before {
-        color: #f0f0f0 !important;
-    
-}
-#header-top,#navbar{
-    z-index: 999;
-}
-.banner{
-    margin-top: -125px;
-    padding-top: 125px;
-    
+    color: #f0f0f0 !important;
+
 }
 
-#abt-cta{
+#header-top,
+#navbar {
+    z-index: 999;
+}
+
+.banner {
+    margin-top: -125px;
+    padding-top: 125px;
+
+}
+
+#abt-cta {
     height: 400px;
     background-image: url(https://ivault.tech/assets/images/abt-cta.png);
     background-size: cover;
@@ -75,12 +83,13 @@ body{
     text-align: center;
     justify-content: center;
 }
-#cta{
+
+#cta {
     height: 600px;
     background-image: url(https://ivault.tech/assets/images/cta-bg.png);
     background-size: cover;
     background-position: center;
-   
+
     background-repeat: no-repeat;
     background-attachment: fixed;
     display: flex;
@@ -88,7 +97,8 @@ body{
     text-align: center;
     justify-content: center;
 }
-#b-cta{
+
+#b-cta {
     margin-top: -120px !important;
 
 }
