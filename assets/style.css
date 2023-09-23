@@ -64,10 +64,32 @@ body{
 }
 
 #abt-cta{
-    height: 350px;
+    height: 400px;
     background-image: url(/assets/images/abt-cta.png);
-    background-size: auto;
-    background-position: top;
+    background-size: cover;
+    background-position: center;
+   
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#cta{
+    height: 600px;
+    background-image: url(/assets/images/cta-bg.png);
+    background-size: cover;
+    background-position: center;
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#b-cta{
+    margin-top: -120px !important;
+
 }
