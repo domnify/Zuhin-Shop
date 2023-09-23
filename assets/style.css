@@ -1,5 +1,9 @@
 .bg-blue {
     background-color: #01023B;
+    opacity: 95%;
+}
+.bg-blue-80 {
+    background-color: #01023B;
     opacity: 80%;
 }
 
@@ -43,6 +47,7 @@ h2,h3{
 body{
     font-family: Helvetica;
     background-color: #f0f0f0;
+    font-size: 18px;
 }
 
 .breadcrumb-item::before {
